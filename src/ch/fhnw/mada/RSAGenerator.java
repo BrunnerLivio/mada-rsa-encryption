@@ -20,6 +20,6 @@ public class RSAGenerator {
     FileHelper.writeFile(PATH + "text-d.txt", textD);
 
     // Vogts Nachricht
-    System.out.println("Entschlüsselter text von Herrn Vogt: " + RSA.decryptFile("chiffre.txt", "sk.txt"));
+    System.out.println("Entschlüsselter Text von Herrn Vogt: " + RSA.decryptFile("chiffre.txt", "sk.txt"));
   }
 }

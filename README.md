@@ -6,6 +6,8 @@ Sie finden auch die generierten pk in `generated/pk.txt` und `generated/sk.txt`.
 
 Der wieder entschlüsselte Text ist in `generated/text-d.txt`.
 
+Die Main Klasse finden sie here `src/ch/fhnw/mada/RSAGenerator.java`
+
 ## Lösung
 
 Wir haben die folgende Lösung erhalten
